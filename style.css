@@ -3,3 +3,51 @@ body {
   height: 100%;
   margin: 0;
 }
+.heading{
+  text-align: center;
+  /* padding: 70px; */
+  justify-content: space-around;
+  
+}
+
+#featured-property {
+  text-align: center;
+}
+
+nav{
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
+  position: relative;
+  clear: both;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 100%;
+  justify-content: space-around;
+
+}
+
+#featured-property p{
+  text-align: center;
+  
+  padding-left: 200px;
+  padding-right: 200px;
+  
+}
+
+#details{
+  overflow: auto;
+  display: flex;
+  /* padding: 40px; */
+  text-align: center;
+  background-color: red;
+  justify-content: space-around;
+
+}
+
+/* #details p{ */
+  /* justify-content: space-around; */
+  /* text-align: center; */
+  /* width: 33%; */
+/* } */
